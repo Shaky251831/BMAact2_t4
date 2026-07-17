@@ -3,8 +3,8 @@ class Conexion {
     public static function conectar() {
         $host = "localhost";
         $db = "biblioteca_db";
-        $user = "root";
-        $password = "251831"; 
+        $user = "admin_biblioteca";
+        $password = "251831*"; 
         $charset = "utf8mb4";
 
         try {
